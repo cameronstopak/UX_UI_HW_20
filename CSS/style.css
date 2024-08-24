@@ -1,0 +1,19 @@
+:root {
+        --bs-body-color: #004578 
+}
+
+body{
+color: var(--bs-body-color);
+font-family: sofia-sans;
+}
+
+.sofia-sans- sofia-sans {
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 20;
+  font-style: normal;
+}
+
+.custom-font{
+    font-family: sofia-sans;
+}
